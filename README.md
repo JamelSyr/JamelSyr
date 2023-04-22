@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamelsyr&show_icons=true&theme=radical&locale=en" alt="jamelsyr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelsyr&theme=dark" alt="jamelsyr" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JamelSyr&theme=dark&border_radius=10&mode=weekly&type=png&card_width=500)](https://git.io/streak-stats)
