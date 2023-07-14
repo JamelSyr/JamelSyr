@@ -28,6 +28,9 @@
   <a href="https://discord.com/users/560909319613448212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="My account, Jamel_Syr#0001" height="30" width="40" /></a>
 <a href="https://www.npmjs.com/~jamel_syr" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="40" /></a>
 </p>
+<br />
+<a href="https://www.buymeacoffee.com/jamill"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jamill&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<br />
 
 ---
 ### My Discord
