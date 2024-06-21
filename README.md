@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mohammad Jamil C.</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Jamil</h1>
 <h3 align="center">ِBackend web developer with a passion for building efficient and scalable systems</h3>
 <img align="right" alt="Code :)" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" >
 <p align="left"> 
@@ -7,17 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=jamelsyr&label=Profile%20views&color=0e75b6&style=flat" alt="jamelsyr" width="130" /> 
 </p>
 
-- 🌱 I’m currently learning **Java, ASP.NET MVC, WPF FORMS ( C# ), DevExpress ( C# )**
-
 - 👨‍💻 All of my projects are available at [jamel-syr.com](https://jamel-syr.com)
 
-- 💬 Ask me about **NodeJS, React, Discord bot programming in javascript :)**
+- 💬 Ask me about **Web Development & Ai**
 
-- 📫 How to reach me **mojamilchch@gmail.com**
+- 📫 How to reach me **mojamilchch@gmail.com** or **contact@jamel-syr.com**
 
 - 📄 Know about my experiences [jamel-syr.com/#skills](https://jamel-syr.com/#skills)
-
-- ⚡ Fun fact **I think i am funny :_:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
