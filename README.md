@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** with over five years of hands-on experience. My journey in programming began with a deep love for technology and coding, and it has evolved into a career focused on building highly efficient, fast, and optimized web applications.  
 
-Currently, I work as a Full-Stack Developer at [**DLL TEKNOLOJİ VERİ MERKEZİ HİZMETLERİ A.Ş.**](https://app.dllteknoloji.com), where I create innovative solutions and develop advanced web platforms. I'm also continuously improving my skills with personal projects and exploring modern technologies such as Docker, Redis, and network security.  
+Currently, I work as a Full-Stack Developer at [**DLL TEKNOLOJİ VERİ MERKEZİ HİZMETLERİ A.Ş.**](https://dllteknoloji.com), where I create innovative solutions and develop advanced web platforms. I'm also continuously improving my skills with personal projects and exploring modern technologies such as Docker, Redis, and network security.  
 
 ---
 
